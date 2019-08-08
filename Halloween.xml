@@ -260,9 +260,9 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
         <WidgetStyle name="White space symbol" styleID="0" fgColor="808080" bgColor="1E1E1E" fontStyle="0" fontSize="" />
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="3687E0" fgColor="B4B4B4" fontStyle="0" fontSize="" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="B55B0B" fgColor="B4B4B4" fontName="" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00FFFF" fontStyle="0" fgColor="E0E2E4" />
-        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF8000" fontStyle="0" fgColor="E0E2E4" />
-        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FFFF00" fontStyle="0" fgColor="E0E2E4" fontSize="10" />
+        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="43A8A8" fontStyle="0" fgColor="E0E2E4" />
+        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="824100" fontStyle="0" fgColor="E0E2E4" />
+        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="A4A425" fontStyle="0" fgColor="E0E2E4" fontSize="10" />
         <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8000FF" fontStyle="0" fgColor="E0E2E4" fontSize="" />
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="008000" fontStyle="0" fgColor="FFFF80" fontSize="" />
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFCAB0" fontStyle="0" />
