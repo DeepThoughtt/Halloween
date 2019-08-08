@@ -271,7 +271,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="00A5F4" bgColor="FF0000" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" fontStyle="0" />
         <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" bgColor="C0C0C0" />
-        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
+        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="000000" bgColor="C0C0C0" fontStyle="0" />
         <WidgetStyle name="URL hovered" styleID="0" fgColor="569CD6" fontStyle="0" />
     </GlobalStyles>
 </NotepadPlus>
