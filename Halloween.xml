@@ -268,7 +268,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFCAB0" fontStyle="0" />
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="0E3A6C" fgColor="C8C8C8" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="1E1E1E" fgColor="B4B4B4" fontStyle="0" />
-        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="00A5F4" bgColor="FF0000" fontStyle="0" />
+        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="7F30B8" bgColor="FF0000" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" fontStyle="0" />
         <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" bgColor="C0C0C0" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="000000" bgColor="C0C0C0" fontStyle="0" />
