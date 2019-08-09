@@ -2,7 +2,7 @@
 Style Name:			Halloween
 Author:				https://github.com/DeepThoughtt
 Description: 			A personal theme of mine for Notepad++
-Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, Python, Assembly, Matlab
+Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, Python, Assembly, Matlab, Batch
 Date: 				04/08/2019
 
 To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\themes folder and drop this XML file
@@ -184,21 +184,21 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="FUNC2" styleID="14" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="FUNC3" styleID="15" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
         </LexerType>
-		<!-- SQL -->
-		<LexerType name="sql" desc="SQL" ext="">
+	<!-- SQL -->
+	<LexerType name="sql" desc="SQL" ext="">
             <WordsStyle name="KEYWORD" styleID="5" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">nvarchar uniqueidentifier</WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="">ooooo</WordsStyle>
             <WordsStyle name="STRING2" styleID="7" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="IDENTIFIER" styleID="11" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+	    <WordsStyle name="IDENTIFIER" styleID="11" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
 		<!-- PHP -->
-		 <LexerType name="php" desc="php" ext="">
+	<LexerType name="php" desc="php" ext="">
             <WordsStyle name="QUESTION MARK" styleID="18" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="118" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="119" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
@@ -212,7 +212,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="OPERATOR" styleID="127" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
 		<!-- Assembly -->
-		 <LexerType name="asm" desc="Assembly" ext="">
+	<LexerType name="asm" desc="Assembly" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="2" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -230,7 +230,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="EXT INSTRUCTION" styleID="14" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
         </LexerType>
 		<!-- Matlab -->
-		<LexerType name="matlab" desc="Matlab" ext="octave">
+	<LexerType name="matlab" desc="Matlab" ext="octave">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMAND" styleID="2" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -240,6 +240,17 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="OPERATOR" styleID="6" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="7" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOUBLE QUOTE STRING" styleID="8" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
+	<!-- Batch -->
+	<LexerType name="batch" desc="Batch" ext="">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="KEYWORDS" styleID="2" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="LABEL" styleID="3" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMAND" styleID="5" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="6" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
