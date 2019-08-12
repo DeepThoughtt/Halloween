@@ -198,7 +198,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
-		<!-- PHP -->
+	<!-- PHP -->
 	<LexerType name="php" desc="php" ext="">
             <WordsStyle name="QUESTION MARK" styleID="18" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="118" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -212,7 +212,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENTLINE" styleID="125" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="127" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
-		<!-- Assembly -->
+	<!-- Assembly -->
 	<LexerType name="asm" desc="Assembly" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -230,7 +230,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="STRINGEOL" styleID="13" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="EXT INSTRUCTION" styleID="14" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
         </LexerType>
-		<!-- Matlab -->
+	<!-- Matlab -->
 	<LexerType name="matlab" desc="Matlab" ext="octave">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -296,7 +296,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT LINE" styleID="10" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="ILLEGAL" styleID="11" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="10" />
         </LexerType>
-	<!-- Actionscript -->
+	<!-- ActionScript -->
 	<LexerType name="actionscript" desc="ActionScript" ext="">
             <WordsStyle name="DEFAULT" styleID="11" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="FUNCTION" styleID="20" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
