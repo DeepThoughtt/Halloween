@@ -13,6 +13,7 @@ To select this theme,  go in the *Settings -> Style Configuration* menu in Notep
 ## List of the currently supported languages:
 - ActionScript
 - ADA
+- ASP
 - Assembly
 - Bash
 - Batch
