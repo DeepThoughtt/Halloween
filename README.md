@@ -7,7 +7,7 @@ Feedback and constructive criticism is well accepted. Consider the following cri
 2) Color comfort
 3) Personal taste
 
-To install this theme, drag and drop the XML file in the *C:\Users\Username\AppData\Roaming\Notepad++\themes* folder.
+To install this theme, drag and drop the XML file in the *C:\Users\Username\AppData\Roaming\Notepad++\themes* folder.<br/>
 To select this theme,  go in the *Settings -> Style Configuration* menu in Notepad++ and select the *"Halloween"* theme.
 
 ## List of the currently supported languages:
