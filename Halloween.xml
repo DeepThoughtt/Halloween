@@ -2,7 +2,7 @@
 Style Name:			Halloween
 Author:				https://github.com/DeepThoughtt
 Description: 			A personal theme of mine for Notepad++
-Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, 
+Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, Caml
 				Python, Assembly, Matlab, Batch, Bash, VB, ADA, ActionScript, ASP
 Date: 				04/08/2019
 
@@ -314,7 +314,7 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="3" fontSize="" />
-            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="ff00ff" bgColor="1E1E1E" fontName="" fontStyle="3" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="3" fontSize="" />
         </LexerType>
 	<!-- ASP -->
 	<LexerType name="asp" desc="asp" ext="asp">
@@ -326,6 +326,24 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="IDENTIFIER" styleID="86" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ASPSYBOL" styleID="15" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="SCRIPTTYPE" styleID="16" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
+	<!-- Caml -->
+	<LexerType name="caml" desc="Caml" ext="">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="1" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TAGNAME" styleID="2" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="BUILIN FUNC &amp; TYPE" styleID="4" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="TYPE" styleID="5" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="LINENUM" styleID="6" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="8" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="CHARACTER" styleID="9" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="11" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="12" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="13" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC" styleID="14" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
