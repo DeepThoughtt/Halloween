@@ -23,6 +23,7 @@ To select this theme,  go in the *Settings -> Style Configuration* menu in Notep
 - C#
 - C++
 - HTML
+- INI
 - Java
 - Javascript
 - Matlab
