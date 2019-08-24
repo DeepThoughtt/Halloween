@@ -31,6 +31,7 @@ To select this theme,  go in the *Settings -> Style Configuration* menu in Notep
 - Matlab
 - PHP
 - Python
+- Ruby
 - SQL
 - VB
 - XML
