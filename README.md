@@ -21,6 +21,7 @@ To select this theme,  go in the *Settings -> Style Configuration* menu in Notep
 - Batch
 - C
 - Caml
+- COBOL
 - CSS
 - C#
 - C++
