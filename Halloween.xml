@@ -4,7 +4,7 @@ Author:				https://github.com/DeepThoughtt
 Description: 			A personal theme of mine for Notepad++
 Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, Caml, INI
 				Python, Assembly, Matlab, Batch, Bash, VB, ADA, ActionScript, ASP
-				Ruby, COBOL
+				Ruby, COBOL, Makefile
 
 Date: 				04/08/2019
 
@@ -396,6 +396,16 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
+	<!-- Makefile -->
+	<LexerType name="makefile" desc="Makefile" ext="">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="PREPROCESSOR" styleID="2" fgColor="28BF28" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="3" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="4" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="TARGET" styleID="5" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDEOL" styleID="9" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
