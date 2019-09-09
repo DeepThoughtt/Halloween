@@ -4,7 +4,7 @@ Author:				https://github.com/DeepThoughtt
 Description: 			A personal theme of mine for Notepad++
 Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, Caml, INI
 				Python, Assembly, Matlab, Batch, Bash, VB, ADA, ActionScript, ASP
-				Ruby, COBOL, Makefile
+				Ruby, COBOL, Makefile, CMakeFile
 
 Date: 				04/08/2019
 
@@ -406,6 +406,24 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="OPERATOR" styleID="4" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="TARGET" styleID="5" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDEOL" styleID="9" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+        </LexerType>
+	<!-- CMakeFile -->
+	<LexerType name="cmake" desc="CMakeFile" ext="cmake">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING D" styleID="2" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING L" styleID="3" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="STRING R" styleID="4" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="4" fontSize="" />
+            <WordsStyle name="COMMAND" styleID="5" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="PARAMETER" styleID="6" fgColor="8000FF" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="7" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="USER DEFINED" styleID="8" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="type1" />
+            <WordsStyle name="WHILEDEF" styleID="9" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="FOREACHDEF" styleID="10" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="IFDEF" styleID="11" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="MACRODEF" styleID="12" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="STRING VARIABLE" styleID="13" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="14" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
