@@ -26,6 +26,7 @@ To select this theme,  go in the *Settings -> Style Configuration* menu in Notep
 - CSS
 - C#
 - C++
+- D
 - HTML
 - INI
 - Java
