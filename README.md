@@ -30,6 +30,7 @@ To select this theme,  go in the *Settings -> Style Configuration* menu in Notep
 - INI
 - Java
 - Javascript
+- Lua
 - Makefile
 - Matlab
 - PHP
