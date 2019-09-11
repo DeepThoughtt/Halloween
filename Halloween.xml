@@ -4,7 +4,7 @@ Author:				https://github.com/DeepThoughtt
 Description: 			A personal theme of mine for Notepad++
 Languages:   			C, C++, C#, Java, Javascript, HTML, CSS, XML, SQL, PHP, Caml, INI
 				Python, Assembly, Matlab, Batch, Bash, VB, ADA, ActionScript, ASP
-				Ruby, COBOL, Makefile, CMakeFile, Lua
+				Ruby, COBOL, Makefile, CMakeFile, Lua, D
 
 Date: 				04/08/2019
 
@@ -424,6 +424,29 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="MACRODEF" styleID="12" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="STRING VARIABLE" styleID="13" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="NUMBER" styleID="14" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+        </LexerType>
+	<!-- D -->
+	<LexerType name="d" desc="D" ext="">
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="14" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="6" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="KEWORD1" styleID="7" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="KEWORD2" styleID="8" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="KEWORD3" styleID="9" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
+            <WordsStyle name="KEWORD4" styleID="20" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type3" />
+            <WordsStyle name="KEWORD5" styleID="21" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
+            <WordsStyle name="KEWORD6" styleID="22" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="type5" />
+            <WordsStyle name="NUMBER" styleID="5" fgColor="F3FD52" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="10" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="CHARACTER" styleID="12" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="13" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT NESTED" styleID="4" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD" styleID="16" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="17" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
