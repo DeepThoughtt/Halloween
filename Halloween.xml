@@ -49,6 +49,8 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+	    <WordsStyle name="PREPROCESSOR COMMENT" styleID="23" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="PREPROCESSOR COMMENT DOC" styleID="24" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- C++ -->
         <LexerType name="cpp" desc="C++" ext="">
@@ -68,6 +70,8 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+	    <WordsStyle name="PREPROCESSOR COMMENT" styleID="23" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="PREPROCESSOR COMMENT DOC" styleID="24" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- Java -->
         <LexerType name="java" desc="Java" ext="">
@@ -180,14 +184,20 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="STRING" styleID="3" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="E5A345" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+	    <WordsStyle name="BUILTINS" styleID="14" fgColor="E347BD" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="TRIPLE" styleID="6" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CLASSNAME" styleID="8" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFNAME" styleID="9" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="B0B0B0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="">param @projectDescription projectDescription @param</WordsStyle>
-            <WordsStyle name="STRINGEOL" styleID="12" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="D77ABC" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DECORATOR" styleID="15" fgColor="28BF28" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+	    <WordsStyle name="STRINGEOL" styleID="12" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+	    <WordsStyle name="F STRING" styleID="16" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="F CHARACTER" styleID="17" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+	    <WordsStyle name="F TRIPLE" styleID="18" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="F TRIPLEDOUBLE" styleID="19" fgColor="44FAD1" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- Lua -->
         <LexerType name="lua" desc="Lua" ext="">
