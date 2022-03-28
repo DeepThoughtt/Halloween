@@ -2,10 +2,7 @@
 Personal dark theme for Notepad++
 
 I tried to find a set of colours that didn't hurt the eyes in a long coding session and were pleasant to code with.
-Feedback and constructive criticism is well accepted. Consider the following criteria when judging this theme:
-1) Eye relaxation
-2) Color comfort
-3) Personal taste
+Feedback and constructive criticism is well accepted.
 
 To install this theme, drag and drop the XML file in the `C:\Users\Username\AppData\Roaming\Notepad++\themes` folder. If you
 also want to have .md support you have to put the `userDefinedLang-markdown.default.modern.xml` file in the `C:\Users\Username\AppData\Roaming\Notepad++\userDefineLangs` directory.
