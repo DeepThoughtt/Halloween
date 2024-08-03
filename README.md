@@ -11,7 +11,7 @@ theme anymore.<br/>
 
 To select this theme,  go in the `Settings -> Style Configuration` menu in Notepad++ and select the *"Halloween"* theme.
 
-![hw_preview](imgs/hw_preview.jpg)
+![hw_preview](imgs/theme.jpeg)
 
 ## List of the currently supported languages:
 - ActionScript
