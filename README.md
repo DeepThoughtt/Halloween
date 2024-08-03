@@ -11,7 +11,7 @@ To select this theme,  go in the `Settings -> Style Configuration` menu in Notep
 
 ![hw_preview](imgs/theme.jpeg)
 
-## List of the currently supported languages:
+## List of the currently supported languages
 - ActionScript
 - ADA
 - ASP
