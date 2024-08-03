@@ -272,39 +272,39 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
         <LexerType name="batch" desc="Batch" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="KEYWORDS" styleID="2" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="LABEL" styleID="3" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="KEYWORDS" styleID="2" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="LABEL" styleID="3" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HIDE SYBOL" styleID="4" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMAND" styleID="5" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VARIABLE" styleID="6" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="6" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- Bash -->
         <LexerType name="bash" desc="bash" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="ERROR" styleID="1" fgColor="FFFFFF" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="5" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="6" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="8" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SCALAR" styleID="9" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="SCALAR" styleID="9" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="PARAM" styleID="10" fgColor="008080" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="BACKTICKS" styleID="11" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="HERE DELIM" styleID="12" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="BACKTICKS" styleID="11" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="HERE DELIM" styleID="12" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="HERE Q" styleID="13" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- VB -->
         <LexerType name="vb" desc="VB / VBS" ext="">
             <WordsStyle name="DEFAULT" styleID="7" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="2" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="2" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="WORD" styleID="3" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="STRING" styleID="4" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="PREPROCESSOR" styleID="5" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="6" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="6" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DATE" styleID="8" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- ADA -->
@@ -335,22 +335,22 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="3" fontSize="" />
-            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="3" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- ASP -->
         <LexerType name="asp" desc="asp" ext="asp">
             <WordsStyle name="DEFAULT" styleID="81" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" styleID="82" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="83" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="WORD" styleID="84" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="WORD" styleID="84" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="STRING" styleID="85" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="86" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="ASPSYBOL" styleID="15" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="ASPSYBOL" styleID="15" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SCRIPTTYPE" styleID="16" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- Caml -->
@@ -358,11 +358,11 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="1" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="TAGNAME" styleID="2" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="BUILIN FUNC &amp; TYPE" styleID="4" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="TYPE" styleID="5" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
-            <WordsStyle name="LINENUM" styleID="6" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="LINENUM" styleID="6" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="8" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="9" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="11" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
@@ -375,8 +375,8 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
         <LexerType name="ini" desc="ini file" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SECTION" styleID="2" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="SECTION" styleID="2" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFVAL" styleID="4" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- Ruby -->
@@ -386,17 +386,17 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENTLINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="POD" styleID="3" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="STRING" styleID="6" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="CLASS NAME" styleID="8" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="DEF NAME" styleID="9" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="CLASS NAME" styleID="8" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEF NAME" styleID="9" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="12" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="GLOBAL" styleID="13" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="GLOBAL" styleID="13" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SYMBOL" styleID="14" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="MODULE NAME" styleID="15" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="MODULE NAME" styleID="15" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTANCE VAR" styleID="16" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CLASS VAR" styleID="17" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="BACKTICKS" styleID="18" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
@@ -407,53 +407,53 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
         <LexerType name="cobol" desc="COBOL" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DECLARATION" styleID="5" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="16" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="DECLARATION" styleID="5" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="16" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="KEYWORD" styleID="8" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- Makefile -->
         <LexerType name="makefile" desc="Makefile" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="PREPROCESSOR" styleID="2" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="PREPROCESSOR" styleID="2" fgColor="28BF28" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="3" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="4" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="4" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="TARGET" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="IDEOL" styleID="9" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="2" fontSize="" />
+            <WordsStyle name="IDEOL" styleID="9" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- CMakeFile -->
         <LexerType name="cmake" desc="CMakeFile" ext="cmake">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING D" styleID="2" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING L" styleID="3" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="STRING R" styleID="4" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="4" fontSize="" />
-            <WordsStyle name="COMMAND" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="STRING L" styleID="3" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING R" styleID="4" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMAND" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="PARAMETER" styleID="6" fgColor="8000FF" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="VARIABLE" styleID="7" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="USER DEFINED" styleID="8" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="type1" />
-            <WordsStyle name="WHILEDEF" styleID="9" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="FOREACHDEF" styleID="10" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="IFDEF" styleID="11" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="MACRODEF" styleID="12" fgColor="FF0000" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="STRING VARIABLE" styleID="13" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="14" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="USER DEFINED" styleID="8" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="WHILEDEF" styleID="9" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="FOREACHDEF" styleID="10" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IFDEF" styleID="11" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="MACRODEF" styleID="12" fgColor="FF0000" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING VARIABLE" styleID="13" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="14" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- D -->
         <LexerType name="d" desc="D" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="14" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="6" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="6" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="KEWORD1" styleID="7" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="KEWORD2" styleID="8" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="KEWORD3" styleID="9" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
@@ -463,22 +463,22 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="NUMBER" styleID="5" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="10" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="12" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="13" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="13" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT NESTED" styleID="4" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT DOC KEYWORD" styleID="16" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD" styleID="16" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="17" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- TeX -->
         <LexerType name="tex" desc="TeX" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SPECIAL" styleID="1" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="GROUP" styleID="2" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="SPECIAL" styleID="1" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="GROUP" styleID="2" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SYMBOL" styleID="3" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMAND" styleID="4" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMAND" styleID="4" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="TEXT" styleID="5" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <!-- JSON -->
@@ -487,15 +487,35 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="NUMBER" styleID="4" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING DOUBLE QUOTE" styleID="6" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING SINGLE QUOTE" styleID="7" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="BOOLEAN NULL" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="BOOLEAN NULL" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
+        <!-- TypeScript -->
+        <LexerType name="typescript" desc="TypeScript" ext="">
+            <WordsStyle name="DEFAULT" styleID="41" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="WINDOW INSTRUCTION" styleID="19" fgColor="804000" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize=""/>
+            <WordsStyle name="NUMBER" styleID="4" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING" styleID="6" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING RAW" styleID="20" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="CHARACTER" styleID="7" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="10" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="REGEX" styleID="14" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC" styleID="3" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT LINE DOC" styleID="15" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
         <WidgetStyle name="Global override" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="B0B0B0" bgColor="0D0C0C" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="696969" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="DCDCDC" bgColor="264F78" fontName="" fontStyle="1" fontSize="" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="DCDCDC" bgColor="264F78" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="DF2020" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="0F0F0F" fgColor="DCDCDC" fontStyle="0" fontSize="" />
         <WidgetStyle name="Mark colour" styleID="0" fgColor="DCDCDC" bgColor="264F78" fontStyle="0" />
