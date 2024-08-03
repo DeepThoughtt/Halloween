@@ -37,6 +37,7 @@ To select this theme,  go in the `Settings -> Style Configuration` menu in Notep
 - PHP
 - Python
 - Ruby
+- Rust
 - SQL
 - TeX
 - TypeScript

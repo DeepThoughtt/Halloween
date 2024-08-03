@@ -510,6 +510,34 @@ To install this theme, go in the C:\Users\Username\AppData\Roaming\Notepad++\the
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
+        <!-- Rust -->
+        <LexerType name="rust" desc="Rust" ext="">
+            <WordsStyle name="DEFAULT" styleID="32" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="WHITESPACE" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BLOCK COMMENT" styleID="1" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LINE COMMENT" styleID="2" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BLOCK DOC COMMENT" styleID="3" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LINE DOC COMMENT" styleID="4" fgColor="D77ABC" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="5" fgColor="F3FD52" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="KEYWORDS 1" styleID="6" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="KEYWORDS 2" styleID="7" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="KEYWORDS 3" styleID="8" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="KEYWORDS 4" styleID="9" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
+            <WordsStyle name="KEYWORDS 5" styleID="10" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type3" />
+            <WordsStyle name="KEYWORDS 6" styleID="11" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
+            <WordsStyle name="KEYWORDS 7" styleID="12" fgColor="E5A345" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" keywordClass="type5" />
+            <WordsStyle name="REGULAR STRING" styleID="13" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="RAW STRING" styleID="14" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="CHARACTER" styleID="15" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="16" fgColor="FFFBFB" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="17" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LIFETIME" styleID="18" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="MACRO" styleID="19" fgColor="B0B0B0" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LEXICAL ERROR" styleID="20" fgColor="E347BD" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BYTE STRING" styleID="21" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="RAW BYTE STRING" styleID="22" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BYTE CHARACTER" styleID="23" fgColor="CB0606" bgColor="0D0C0C" fontName="" fontStyle="0" fontSize="" />
+        </LexerType>
     </LexerStyles>
     <GlobalStyles>
         <WidgetStyle name="Global override" styleID="0" fgColor="B0B0B0" bgColor="0D0C0C" fontName="Consolas" fontStyle="0" fontSize="10" />
