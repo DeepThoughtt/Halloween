@@ -9,7 +9,7 @@ also want to have .md support you have to put the `markdown._halloween.udl.xml` 
 
 To select this theme,  go in the `Settings -> Style Configuration` menu in Notepad++ and select the *"Halloween"* theme.
 
-![hw_preview](imgs/theme.jpeg)
+![hw_preview](imgs/theme1.jpeg)
 
 ## List of the currently supported languages
 - ActionScript
